@@ -1,6 +1,6 @@
 # Lottery Odds Analysis
 
-*This analysis was done as part of dataquest practice.*
+*This analysis was done as part of dataquest practice. Just uploaded to github when I am moving to a different laptop.*
 
 The lottery is relatively inexpensive. In the US, the usual price people will pay for a lottery ticket is in the range of $2-$5, with the promise of a huge jackpot prize. Naturally, it is seen as a socially acceptable form of gambling. However, for a minority, this form of entertainment escalate into an addiction.
 
